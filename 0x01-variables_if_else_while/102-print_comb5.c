@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * main - returns a combination of number
+ * main - returns of a combination of number
  * Return: return 0 if successful
  */
 
